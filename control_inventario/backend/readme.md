@@ -1,1 +1,0 @@
-todo lo relacionado con el back de la app
